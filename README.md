@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- - weavus (2015.07~2019.03)
+- hellonature (2019.04~2022.05)
+- BGFnetworks (2022.06)
+- Perfit (2022.07~) -->
