@@ -6,7 +6,8 @@ Make a change.<br/>
 ### Recent Interests
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <!--img src="https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white"-->
+  <img src="https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/recoil-3578e5?style=for-the-badge&logo=recoil&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/svelte-f44336?style=for-the-badge&logo=svelte&logoColor=white">
 </div>
