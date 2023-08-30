@@ -3,6 +3,7 @@ Make a wish.<br/>
 Take a chance.<br/>
 Make a change.<br/>
 
+<!--
 ### Recent Interests
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -11,6 +12,7 @@ Make a change.<br/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/svelte-f44336?style=for-the-badge&logo=svelte&logoColor=white">
 </div>
+-->
 
 <br/>
 
